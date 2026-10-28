@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Challenge C mark: three input levers on a field line, the top lever in gold"><path d="M139 32.45 A78 78 0 1 1 61 32.45" fill="none" stroke="#D9A21B" stroke-width="13" stroke-linecap="butt"/>
+<path d="M75 24.5 L54.5 21.5 L67.5 42.5 Z" fill="#D9A21B"/>
+<circle cx="178" cy="100" r="9" fill="#FFFFFF" stroke="#13201A" stroke-width="5"/>
+<circle cx="100" cy="178" r="9" fill="#FFFFFF" stroke="#13201A" stroke-width="5"/>
+<circle cx="22" cy="100" r="9" fill="#FFFFFF" stroke="#13201A" stroke-width="5"/><line x1="66" y1="150" x2="134" y2="150" stroke="#13201A" stroke-width="6" stroke-linecap="round"/>
+<line x1="78" y1="146" x2="78" y2="88" stroke="#13201A" stroke-width="4" stroke-linecap="round"/>
+<line x1="100" y1="146" x2="100" y2="88" stroke="#13201A" stroke-width="4" stroke-linecap="round"/>
+<line x1="122" y1="146" x2="122" y2="88" stroke="#13201A" stroke-width="4" stroke-linecap="round"/>
+<rect x="68" y="122" width="20" height="11" rx="5.5" fill="#1E6B45"/>
+<rect x="90" y="94" width="20" height="11" rx="5.5" fill="#D9A21B"/>
+<rect x="112" y="110" width="20" height="11" rx="5.5" fill="#1E6B45"/>
+<path d="M100 88 C 100 76 108 66 122 64 C 122 78 112 86 100 88 Z" fill="#1E6B45"/></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Challenge B mark: a field note turning handwritten lines into structured rows"><path d="M139 32.45 A78 78 0 1 1 61 32.45" fill="none" stroke="#D9A21B" stroke-width="13" stroke-linecap="butt"/>
+<path d="M75 24.5 L54.5 21.5 L67.5 42.5 Z" fill="#D9A21B"/>
+<circle cx="178" cy="100" r="9" fill="#FFFFFF" stroke="#13201A" stroke-width="5"/>
+<circle cx="100" cy="178" r="9" fill="#FFFFFF" stroke="#13201A" stroke-width="5"/>
+<circle cx="22" cy="100" r="9" fill="#FFFFFF" stroke="#13201A" stroke-width="5"/><path d="M70 58 H118 L132 72 V142 Q132 146 128 146 H72 Q68 146 68 142 V62 Q68 58 72 58 Z" fill="#FFFFFF" stroke="#13201A" stroke-width="5" stroke-linejoin="round"/>
+<path d="M118 58 V72 H132" fill="none" stroke="#13201A" stroke-width="5" stroke-linejoin="round"/>
+<path d="M80 82 q5 -6 10 0 t10 0 t10 0" fill="none" stroke="#1E6B45" stroke-width="5" stroke-linecap="round"/>
+<path d="M80 97 q5 -6 10 0 t10 0 t10 0 t10 0" fill="none" stroke="#1E6B45" stroke-width="5" stroke-linecap="round"/>
+<circle cx="83" cy="117" r="5" fill="#D9A21B"/>
+<line x1="94" y1="117" x2="120" y2="117" stroke="#13201A" stroke-width="5" stroke-linecap="round"/>
+<circle cx="83" cy="132" r="5" fill="#1E6B45"/>
+<line x1="94" y1="132" x2="112" y2="132" stroke="#13201A" stroke-width="5" stroke-linecap="round"/></svg>

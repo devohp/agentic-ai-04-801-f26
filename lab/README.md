@@ -1,6 +1,6 @@
 # Lab Script: Agentic AI, Foundations and Applications (04-801)
 
-Fall 2026, Mini-2, Carnegie Mellon University Africa. Instructor: Prof. Dr. Bernhard Ostheimer.
+Fall 2026, Mini-2, Carnegie Mellon University Africa. Instructor: Prof. Dr. BO.
 
 This folder is the book to the labs: one chapter per week, released on the Monday of its week. The code it explains lives one folder up, in the repository root.
 

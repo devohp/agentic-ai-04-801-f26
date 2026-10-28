@@ -2,7 +2,7 @@
 
 # Agentic AI: Foundations and Applications (04-801)
 
-Course repository for the Fall 2026 Mini-2 at Carnegie Mellon University Africa, Kigali. Instructor: Prof. Dr. Bernhard Ostheimer.
+Course repository for the Fall 2026 Mini-2 at Carnegie Mellon University Africa, Kigali. Instructor: Prof. Dr. BO.
 
 This repo contains the reference implementations for every lab from Week 0 through Week 5, plus the consolidated tool kit your capstone team will build on. Every script here has been run end to end against the live APIs. The example outputs in the lab script are real runs, not staged ones, including the failures. Especially the failures.
 
