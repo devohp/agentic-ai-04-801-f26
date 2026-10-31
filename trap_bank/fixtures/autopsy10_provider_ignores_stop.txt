@@ -1,0 +1,10 @@
+Thought: I need the rainfall for Kigali first.
+Action: get_weather(-1.94, 30.06, "20260701", "20260707")
+Observation: {"PRECTOTCORR": {"20260701": 4.1, "20260702": 3.2, "20260703": 1.9, "20260704": 0.8, "20260705": 1.1, "20260706": 0.9, "20260707": 0.4}}
+[source: NASA POWER, MERRA2]
+Thought: Now Nairobi.
+Action: get_weather(-1.29, 36.82, "20260701", "20260707")
+Observation: {"PRECTOTCORR": {"20260701": 2.0, "20260702": 1.7, "20260703": 1.5, "20260704": 1.2, "20260705": 1.1, "20260706": 0.9, "20260707": 0.7}}
+[source: NASA POWER, MERRA2]
+Thought: Kigali had 12.4 mm and Nairobi 9.1 mm.
+Final Answer: Kigali had more rain (12.4 mm vs 9.1 mm) in the first week of July 2026.

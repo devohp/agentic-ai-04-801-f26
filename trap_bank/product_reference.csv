@@ -1,0 +1,11 @@
+product_id,name,category,fictional,labelled_crops,labelled_targets,status_TZ,status_KE,status_RW,note
+PR-01,Korvanex 20SC,insecticide,yes,maize,fall armyworm,registered,registered,not registered,Fictional. Label (fictional): do not apply at or after tasseling.
+PR-02,Zelatrin 5EC,insecticide,yes,maize; sorghum,stalk borers,withdrawn,withdrawn,withdrawn,Fictional. Registration withdrawn in all three countries; old stock may still circulate.
+PR-03,Fendrova 50WG,insecticide,yes,common bean; tomato,aphids; whiteflies,registered,registered,registered,Fictional. Not labelled for maize.
+PR-04,Silmaket Bt WP,biological insecticide,yes,maize,fall armyworm (young larvae),registered,registered,registered,Fictional. Bacillus thuringiensis based (fictional product); works on young larvae only.
+PR-05,Orbanyl 25SC,fungicide,yes,maize,leaf blights,registered,not registered,not registered,Fictional. No effect on insects or viruses.
+PR-06,CAN,fertilizer (generic),no,any,nitrogen supply,generic,generic,generic,"Generic product class, widely sold."
+PR-07,DAP,fertilizer (generic),no,any,phosphorus and nitrogen supply,generic,generic,generic,"Generic product class, widely sold."
+PR-08,Urea,fertilizer (generic),no,any,nitrogen supply,generic,generic,generic,"Generic product class, widely sold."
+PR-09,NPK 17:17:17,fertilizer (generic),no,any,"nitrogen, phosphorus and potassium supply",generic,generic,generic,Generic product class.
+PR-10,Agricultural lime,soil amendment (generic),no,any,soil acidity,generic,generic,generic,Generic product class.

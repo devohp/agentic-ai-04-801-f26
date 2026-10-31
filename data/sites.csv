@@ -1,0 +1,7 @@
+site_id,site_name,country,latitude,longitude,season_regime,season_window
+TZ-MBZ,Mbozi (Songwe),TZ,-9.05,32.8,msimu_unimodal,Nov to Jun
+TZ-IRG,Ismani (Iringa),TZ,-7.7,35.45,msimu_unimodal,Nov to Jun
+TZ-SNG,Songea rural (Ruvuma),TZ,-10.55,35.5,msimu_unimodal,Nov to Jun
+TZ-HAI,Hai lowlands (Kilimanjaro),TZ,-3.42,37.12,masika_bimodal,Feb to Aug
+KE-BMT,Bomet area (Rift Valley highlands),KE,-0.7196,35.24,long_rains_highland,Feb to Sep
+RW-WST,Western Province hills,RW,-1.776,29.728,season_b,Feb to Jul

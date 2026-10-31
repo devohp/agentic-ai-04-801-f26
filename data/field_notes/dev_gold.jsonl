@@ -1,0 +1,21 @@
+{"note_id": "N-001", "events": [{"what": "leaf_yellowing", "where": "TZ-SNG-F04", "when": "2021-12-28", "severity": "unspecified", "data_check": "not_checkable"}]}
+{"note_id": "N-002", "events": [{"what": "planting", "where": "TZ-IRG-F04", "when": "2022-01-08", "severity": "unspecified", "data_check": "corroborated"}]}
+{"note_id": "N-014", "events": [{"what": "pest_stalk_borer", "where": "TZ-IRG-F07", "when": "2022-03-20", "severity": "low", "data_check": "not_checkable"}]}
+{"note_id": "N-017", "events": [{"what": "input_pesticide", "where": "KE-BMT-F06", "when": "2022-03-22", "severity": "unspecified", "data_check": "not_checkable"}]}
+{"note_id": "N-030", "events": [{"what": "nutrient_n_deficiency_suspected", "where": "TZ-IRG-F07", "when": "2023-02-12", "severity": "unspecified", "data_check": "not_checkable"}]}
+{"note_id": "N-035", "events": [{"what": "planting", "where": "RW-WST-F07", "when": "2023-04-18", "severity": "unspecified", "data_check": "corroborated"}]}
+{"note_id": "N-040", "events": [{"what": "pest_fall_armyworm", "where": "TZ-SNG-F07", "when": "2023-11-25", "severity": "low", "data_check": "not_checkable"}]}
+{"note_id": "N-046", "events": [{"what": "pest_armyworm_unresolved", "where": "TZ-IRG-F05", "when": "2024-01-14", "severity": "medium", "data_check": "not_checkable"}, {"what": "advice_requested", "where": "TZ-IRG-F05", "when": "2024-01-14", "severity": "unspecified", "data_check": "not_checkable"}]}
+{"note_id": "N-049", "events": [{"what": "waterlogging", "where": "TZ-SNG-F08", "when": "2024-02-18", "severity": "unspecified", "data_check": "corroborated"}]}
+{"note_id": "N-050", "events": [{"what": "waterlogging", "where": "TZ-MBZ-F03", "when": "2024-02-28", "severity": "unspecified", "data_check": "corroborated"}]}
+{"note_id": "N-056", "events": [{"what": "disease_msv_suspected", "where": "KE-BMT-F02", "when": "2024-04-12", "severity": "medium", "data_check": "not_checkable"}]}
+{"note_id": "N-058", "events": [{"what": "leaf_yellowing", "where": "RW-WST-F05", "when": "2024-04-19", "severity": "unspecified", "data_check": "not_checkable"}]}
+{"note_id": "N-060", "events": [{"what": "drought_stress", "where": "KE-BMT-F06", "when": "2024-05-06", "severity": "high", "data_check": "contradicted"}]}
+{"note_id": "N-063", "events": [{"what": "harvest", "where": "TZ-HAI-F06", "when": "2024-07-04", "severity": "unspecified", "data_check": "not_checkable"}]}
+{"note_id": "N-066", "events": [{"what": "drought_stress", "where": "TZ-MBZ-F03", "when": "2025-01-04", "severity": "high", "data_check": "contradicted"}]}
+{"note_id": "N-068", "events": [{"what": "disease_msv_suspected", "where": "TZ-IRG-F08", "when": "2025-01-30", "severity": "unspecified", "data_check": "not_checkable"}]}
+{"note_id": "N-080", "events": [{"what": "pest_armyworm_unresolved", "where": "KE-BMT-F01", "when": "2025-04-28", "severity": "high", "data_check": "not_checkable"}]}
+{"note_id": "N-082", "events": [{"what": "disease_msv_suspected", "where": "TZ-SNG-F03", "when": "2025-12-21", "severity": "low", "data_check": "not_checkable"}]}
+{"note_id": "N-096", "events": [{"what": "pest_fall_armyworm", "where": "RW-WST-F05", "when": "2026-04-12", "severity": "low", "data_check": "not_checkable"}]}
+{"note_id": "N-099", "events": [{"what": "input_pesticide", "where": "TZ-HAI-F04", "when": "2026-04-26", "severity": "unspecified", "data_check": "not_checkable"}]}
+{"note_id": "N-100", "events": [{"what": "leaf_yellowing", "where": "TZ-HAI-F07", "when": "2026-04-27", "severity": "unspecified", "data_check": "not_checkable"}]}

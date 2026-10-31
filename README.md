@@ -51,6 +51,8 @@ Both go into `.env`, which is gitignored. Keys never appear in code, in commits,
 | 5 | `eval_harness.py` | Three-layer evals: hard checks, repetition, LLM-as-judge |
 | Capstone | `tools.py` | The four course tools, consolidated: `weather`, `soil`, `calc`, `search_notes` |
 | Data | `weather_snapshot.json` | Frozen weather reference values (see below) |
+| Capstone | `data/` | The curated capstone dataset: fields, seasons, weather, NDVI, field notes, agronomy snippets. Start with [data/README.md](data/README.md) |
+| Capstone | `trap_bank/` | Shared evaluation scenarios with reference behaviour, see [trap_bank/README.md](trap_bank/README.md) |
 | Utility | `build_snapshot.py` | Instructor tool that pre-warms the offline soil snapshot |
 | All | `lab/` | The lab script, one chapter per week |
 
@@ -110,6 +112,7 @@ deliberately not pinned; the code has to survive all of them.
 
 - **iSDAsoil**: Miller, M. A. E., Shepherd, K. D., Kisitu, B., & Collinson, J. (2021). iSDAsoil: The first continent-scale soil property map at 30 m resolution. *PLOS Biology*, 19(11), e3001441. https://doi.org/10.1371/journal.pbio.3001441. Data: CC-BY 4.0.
 - **NASA POWER**: Prediction Of Worldwide Energy Resources, NASA Langley Research Center. https://power.larc.nasa.gov. Open access, no key required.
+- **Capstone dataset** (`data/`): synthetic and calibrated; real NASA POWER weather and iSDAsoil topsoil, yields calibrated against EPAR summary statistics (BSD-3-Clause notice in [data/README.md](data/README.md)). Sources and licences per layer are listed there.
 - Synthetic field notes in `field_notes_tool.py` and `tools.py` are course material, invented for teaching. Any resemblance to an actual armyworm is fully intended.
 
 ## Course use
