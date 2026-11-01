@@ -9,7 +9,7 @@ This folder is the book to the labs: one chapter per week, released on the Monda
 | Week 0: Environment setup | [week0.md](week0.md) | Mon, 19 Oct |
 | Week 1: Your first tool-using agent | [week1.md](week1.md) | Mon, 19 Oct |
 | Week 2: The reasoning core (ReAct) | [week2.md](week2.md) | Mon, 26 Oct |
-| Week 3: Real tools, real failures, and a framework | `week3.md` | Mon, 2 Nov |
+| Week 3: Real tools, real failures, and a framework | [week3.md](week3.md) | Mon, 2 Nov |
 | Week 4: Multi-agent orchestration | `week4.md` | Mon, 9 Nov |
 | Week 5: The evaluation harness | `week5.md` | Mon, 16 Nov |
 
