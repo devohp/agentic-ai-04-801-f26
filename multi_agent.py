@@ -19,6 +19,7 @@ model = ChatOpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=os.environ["OPENROUTER_API_KEY"],
     max_tokens=1024,                            # some providers reject calls without a budget
+    timeout=60, max_retries=1,                  # fail loudly instead of hanging
     model="deepseek/deepseek-chat-v3-0324",
 )
 
