@@ -35,3 +35,4 @@ Corrections to a chapter that is already out are listed here, newest first.
 | Date | Chapter | Change |
 |---|---|---|
 | 21 Oct | Week 0 | Troubleshooting: the `401` row now names its three possible causes, followed by a one-line key check and the fix for each. Module 0.1 now says explicitly to replace the placeholder in the `Set-Content` line. |
+| 8 Nov  | Week 4 | `multi_agent.py` now sets `timeout=60, max_retries=1` on the model, so a stalled provider fails with an error instead of hanging. |
