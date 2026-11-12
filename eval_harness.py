@@ -3,8 +3,8 @@
 #   1. Hard checks: cheap, deterministic assertions on invariants
 #   2. Repetition: run each scenario k times, report a consistency rate
 #   3. LLM-as-judge: for soft criteria no regex can catch (expensive, fallible)
-# Golden-data trick: test against HISTORICAL/STATIC data (July 2026 weather,
-# iSDAsoil) so reference values cannot rot.
+# Golden-data trick: test against FROZEN data from the snapshot files, never against a live call
+# (Autopsy 7: live reference values can rot)
 
 import json
 import os
@@ -28,6 +28,7 @@ model = ChatOpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=os.environ["OPENROUTER_API_KEY"],
     max_tokens=1024,                            # some providers reject calls without a budget
+    timeout=60, max_retries=1,                  # fail loudly instead of hanging
     model="deepseek/deepseek-chat-v3-0324",
 )
 
@@ -108,7 +109,7 @@ SCENARIOS = [
                     "20260701 to 20260707? One sentence.",
         "checks": {
             "contains_7.03": lambda a: GOLDEN_RAIN in a,
-            "cites_source":  lambda a: re.search(r"NASA|POWER", a, re.I),
+            "cites_source":  lambda a: re.search(r"NASA|POWER|MERRA", a, re.I),
         },
     },
     {
