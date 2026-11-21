@@ -34,5 +34,6 @@ Corrections to a chapter that is already out are listed here, newest first.
 
 | Date | Chapter | Change |
 |---|---|---|
+| 21 Nov | Week 3 | Checkpoint 3: committing from your own GitHub account is recommended, not required. A signed entry counts for the person who signs it, even if a teammate commits it (briefing, section 13). |
 | 8 Nov  | Week 4 | `multi_agent.py` now sets `timeout=60, max_retries=1` on the model, so a stalled provider fails with an error instead of hanging. |
 | 21 Oct | Week 0 | Troubleshooting: the `401` row now names its three possible causes, followed by a one-line key check and the fix for each. Module 0.1 now says explicitly to replace the placeholder in the `Set-Content` line. |

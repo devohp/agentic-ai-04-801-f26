@@ -392,4 +392,4 @@ Your agent robustly calls at least one real data tool: weather or soil, or retri
 3. a fallback with a source label that says which path produced the data;
 4. a loud error when nothing is left, translated into an `ERROR:` observation for the agent.
 
-Show it once with the network on and once with it off. Then commit the tool to `tools/` in your team repository, from your own GitHub account, and add your own signed entry to the team's `DECISIONS.md`: which data source, which fallback, and why (*What*, *Why*, *Trade-off*). The briefing, section 13, shows the entry format.
+Show it once with the network on and once with it off. Then commit the tool to `tools/` in your team repository, ideally from your own GitHub account, and add your own signed entry to the team's `DECISIONS.md`: which data source, which fallback, and why (*What*, *Why*, *Trade-off*). An entry counts for the person who signs it, even if a teammate commits it. The briefing, section 13, shows the entry format.
